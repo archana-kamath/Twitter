@@ -31,7 +31,7 @@ Please refer the screen prints below
  
 4)Enter the status and post it. Status and its ID is displayed below.
 
-![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/4%20My%20Twitter%20Account.PNG?raw=true)
+![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/3%20Update%20Status%20Result.PNG?raw=true)
  
 5)Status is updated on the user’s twitter account.
 
