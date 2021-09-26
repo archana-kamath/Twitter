@@ -27,7 +27,7 @@ Please refer the screen prints below
  
 3)Below screen-print shows update status page.
 
-![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/3%20Update%20Status%20Result.PNG?raw=true)
+![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/8%20Status%20Update%20Page?raw=true)
  
 4)Enter the status and post it. Status and its ID is displayed below.
 
