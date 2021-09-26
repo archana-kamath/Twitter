@@ -17,7 +17,7 @@ import com.sjsu.twitterdemonstration.helper.ContentTypeInterceptor;
 import com.sjsu.twitterdemonstration.service.TwitterService;
 
 /**
- * @author archa
+ * @author archa - Archana
  * This class calls the twitter API
  */
 @RestController
