@@ -27,7 +27,7 @@ Please refer the screen prints below
  
 3)Below screen-print shows update status page.
 
-![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/8%20Status%20Update%20Page?raw=true)
+![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/8%20Status%20Update%20Page.PNG?raw=true)
  
 4)Enter the status and post it. Status and its ID is displayed below.
 
@@ -41,22 +41,18 @@ Please refer the screen prints below
 
 ![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/6%20Delete%20Status%20Page.PNG?raw=true)
 
-7)Enter the status id of the tweet that needs to be deleted.
-
-![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/7%20Status%20deleted%20Result.PNG?raw=true) 
-
-8)Displays message stating the tweet is deleted.
+7)Enter the status id of the tweet that needs to be deleted. Press delete. Displays message stating the tweet is deleted.
  
-![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/8%20Status%20Update%20Page.PNG?raw=true)
+![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/7%20Status%20deleted%20Result.PNG?raw=true)
 
-9)Verify in the user’s profile.
+8)Verify in the user’s profile.
 
 ![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/9%20Status%20deleted.PNG?raw=true)
 
-10) Test cases are written for Controller class.
+9) Test cases are written for Controller class.
 
 ![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/10%20Test%20controller.PNG?raw=true)
  
-11) Test cases are written for Service class.
+10) Test cases are written for Service class.
  
 ![alt text](https://github.com/archana-kamath/Twitter/blob/main/twitter_screenshot/11%20Test%20service.PNG?raw=true)
