@@ -8,7 +8,7 @@ import { Form } from 'react-bootstrap';
 import Button from 'react-bootstrap/Button';
 import { Table } from 'react-bootstrap';
 
-/* Author: Mounica */
+/* Author: Simran */
 class DeleteTweet extends Component {
 
     constructor(props){
