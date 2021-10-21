@@ -1,21 +1,21 @@
 # Twitter
-Twitter demonstration using spring boot and react
+Twitter demonstration using spring boot and react<br />
 
-Implementation:  Twitter demonstration has three features
+Implementation:  Twitter demonstration has three features<br />
 •	Retrieve the status using hashtag.<br />
 •	Update status to the user profile <br />
 •	Delete status from profile using the status id.<br />
 	
-Technology used: 
-•	Backend has been implemented using spring Boot (version 2.5.5)
-•	Test cases (positive and negative) are written using junit jar (version 4.12)
-•	Front end has been implemented using React (version 17.0.2)
-•	Styling is done using react-bootstrap (version 1.6.4)
-•	Axios is used to make http call to spring boot application, from react pages.
-•	Tools and IDE: Eclipse (Version: 2020-09 (4.17.0)), Visual studio code 1.60.2, Google Chrome
+Technology used: <br />
+•	Backend has been implemented using spring Boot (version 2.5.5)<br />
+•	Test cases (positive and negative) are written using junit jar (version 4.12)<br />
+•	Front end has been implemented using React (version 17.0.2)<br />
+•	Styling is done using react-bootstrap (version 1.6.4)<br />
+•	Axios is used to make http call to spring boot application, from react pages.<br />
+•	Tools and IDE: Eclipse (Version: 2020-09 (4.17.0)), Visual studio code 1.60.2, Google Chrome<br />
 
 
-Please refer the screen prints below
+Please refer the screen prints below<br />
 
 1)This is the home page where we have three options.
 
