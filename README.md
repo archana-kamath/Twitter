@@ -2,9 +2,9 @@
 Twitter demonstration using spring boot and react
 
 Implementation:  Twitter demonstration has three features
-•	Retrieve the status using hashtag.
-•	Update status to the user profile 
-•	Delete status from profile using the status id.
+•	Retrieve the status using hashtag.<br />
+•	Update status to the user profile <br />
+•	Delete status from profile using the status id.<br />
 	
 Technology used: 
 •	Backend has been implemented using spring Boot (version 2.5.5)
